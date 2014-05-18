@@ -1,0 +1,22 @@
+[X] USB
+[X] Keyboard
+[X] Touchpad
+[X] Touchscreen
+[X] Fn keys (if not working disconnect AC and battery, then connect again)
+[X] Audio
+[X] Bluetooth
+[X] WiFi
+[X] Ethernet
+[X] Camera
+[X] Volume control
+[X] Brightness control
+[X] Suspend/Resume
+[X] LEDs
+[X] RF Switch
+[X] SD Card Reader
+[ ] VGA Output (working, but only as cloned at 1024x600)
+[X] Audio output jack
+[ ] Audio input jack (probably working, not tested yet)
+[ ] 3G
+[X] Built-in microphone
+[ ] Power management (working, except lid closing)
