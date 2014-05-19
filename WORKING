@@ -20,3 +20,4 @@
 [ ] 3G
 [X] Built-in microphone
 [ ] Power management (working, except lid closing)
+[ ] Screen rotation (xrandr gives weird errors)
