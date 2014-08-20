@@ -7,17 +7,18 @@
 [X] Bluetooth
 [X] WiFi
 [X] Ethernet
-[X] Camera
+[X] Camera (not working under 3.16.1)
 [X] Volume control
 [X] Brightness control
 [X] Suspend/Resume
 [X] LEDs
 [X] RF Switch
 [X] SD Card Reader
-[ ] VGA Output (working, but only as cloned at 1024x600)
+[ ] VGA Output (working, but only as cloned at 1024x600 while external monitor is at 800x600)
 [X] Audio output jack
-[ ] Audio input jack (probably working, not tested yet)
-[ ] 3G
+[ ] Audio input jack
+[X] 3G (surprisingly this needs only a minor change in option driver)
 [X] Built-in microphone
 [ ] Power management (working, except lid closing)
 [ ] Screen rotation (xrandr gives weird errors)
+[ ] Hibernation

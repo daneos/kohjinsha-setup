@@ -15,3 +15,6 @@ echo "(sleep 2s && blueman-applet) &" >> $HOME/.config/openbox/autostart
 
 # enable a2dp
 apt-get install pulseaudio-module-bluetooth
+
+# disable F10 hotkey
+cp gtkrc-2.0 $HOME/.gtkrc-2.0.mine
